@@ -1,1 +1,1 @@
-# git-trenning
+# Git Trenning
